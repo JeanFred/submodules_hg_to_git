@@ -1,0 +1,2 @@
+extern/abc = ssh://hg@bitbucket.org/example/abc
+extern/def = [git]git+ssh://git@bitbucket.org/example/def.git
